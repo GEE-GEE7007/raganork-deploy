@@ -1,11 +1,11 @@
 {
-    "name": "Raganork",
-    "description": "Raganork bot - Extra featured, fully customisable WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "name": "Nuritah",
+    "description": "Extra featured, fully customisable WhatsApp Bot.",
+    "logo": "https://www.linkpicture.com/q/IMG_20220111_061206_044_1.jpg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/souravkl11/Raganork",
-    "website":   "https://bit.ly/Raganork",
-    "success_url": "https://bit.ly/Raganork",
+    "repository": "https://github.com",
+    "website":   "https:/github.com",
+    "success_url": "https:/github.com",
     "stack": "container",
     "env": {
         "RAGANORK_CODE": {
@@ -52,7 +52,7 @@
             "value": "Killadism never ends! (Change this)"
         },
         "ALL_CAPTION": {
-            "description": "Give your caption here. Example: Made by Raganork.",
+            "description": "*Made by Nuritah*.",
             "required": true,
             "value": "*YOUR CAPTION HERE*"
         },
@@ -121,7 +121,7 @@
         "ALL_NUMBER": {
             "description": "Type your number here",
             "required": false,
-            "value": "wa.me/919074309534"
+            "value": "wa.me/254782075597"
         },
         "V_HEADER": {
             "description": "Shows on top of verified tick. Type any words here.",
@@ -139,7 +139,7 @@
             "value": "https://instagram.com/username"
         },
         "OWNER_NAME": {
-            "description": "Owner name used in many commands! Type your name here.",
+            "description": " *Hudhayfah* .",
             "required": true,
             "value": "Owner name"
         },
@@ -156,12 +156,12 @@
         "TAKE_KEY": {
             "description": "API key for .take command. Get it from https://api.imgbb.com/",
             "required": false,    
-            "value": "916282344739@s.whatsapp.net"
+            "value": "254782075597@s.whatsapp.net"
         },
         "STICKER_DATA": {
             "description": "Sticker packname changer. Give any text here",
-            "required": false,    
-            "value": "Raganork|Souravkl11"
+            "required": true,    
+            "value": "star ✨ | star ✨"
         },
         "REMOVE_FILTER": {
             "description": "By using these words on .antiword enabled groups, user will be kicked!",
@@ -176,12 +176,12 @@
         "GROUP_LINK": {
             "description": "Official group link of your bot.",
             "required": true,    
-            "value": "https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb"
+            "value": "https://chat.whatsapp.com/KgtvRc5FBp45J0ROHNHkOz"
         },
         "BOT_NAME": {
             "description": "Your bot's name. This is very important!",
             "required": true,
-            "value": "Bot name"
+            "value": "Nuritah"
              
         }
     },
